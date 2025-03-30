@@ -1,6 +1,8 @@
 # hive-ai-dropdown
 ## How to Run the Project
-TODO
+Navigate to `dropdown-component` directory and run `npm start`. Then route to the localhost URL provided by your terminal and view / test dropdown component in your browser.
+![image](https://github.com/user-attachments/assets/19e2b2be-0742-4ff9-a94e-52ae3c7224a3)
+
 # Directions
 Using React or vanilla (plain) Javascript, build a reusable dropdown menu component. Please
 do not use a pre-built dropdown from a component library (i.e. No material ui, built in html select,
