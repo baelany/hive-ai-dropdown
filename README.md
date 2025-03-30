@@ -1,4 +1,7 @@
 # hive-ai-dropdown
+## How to Run the Project
+TODO
+# Directions
 Using React or vanilla (plain) Javascript, build a reusable dropdown menu component. Please
 do not use a pre-built dropdown from a component library (i.e. No material ui, built in html select,
 ant design, ANY already built drop down). We expect you to build this from scratch. Please note,
