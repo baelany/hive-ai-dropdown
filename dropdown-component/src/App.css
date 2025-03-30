@@ -1,0 +1,13 @@
+.container {
+    position: relative;
+    width: 40vh;
+    margin-left: 20px;
+  }
+
+  .single-dropdown {
+    z-index: 10; /* Higher value for single dropdown to be on top */
+  }
+  
+  .multiple-dropdown {
+    z-index: 5; /* Lower value for multiple dropdown to appear below single dropdown */
+  }
